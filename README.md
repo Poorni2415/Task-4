@@ -1,1 +1,1 @@
-Queries executed ussing MySQL
+Queries executed using MySQL
